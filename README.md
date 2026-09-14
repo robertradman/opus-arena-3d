@@ -50,7 +50,7 @@ Scena je renderirana pomoću **Cycles** rendering enginea uz dnevni ambijent. Os
 
 ### 5. Animacija
 
-Animacija prikazuje kretanje kamere iz mračnog igračkog tunela prema izvoru svjetlosti, nakon čega kamera izlazi na teren i postupno otkriva tribine i veličinu cijelog stadiona. Animacija je usporena radi boljeg pregleda stadiona u cjelini.
+Animacija prikazuje kretanje kamere iz mračnog igračkog tunela prema izvoru svjetlosti, nakon čega kamera izlazi na teren i postupno otkriva tribine i veličinu cijelog stadiona. Animacija je usporena radi boljeg pregleda stadiona u cjelini. Animacija se može pogledati na [YouTube](https://www.youtube.com/watch?v=eEI9R5rFJ3c)
 
 ## Izazovi i optimizacija
 
